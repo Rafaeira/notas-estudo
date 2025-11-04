@@ -1,7 +1,7 @@
 # notas-estudo
 Minhas notas de estudo do SENAC no curso de programador web
 
-Segunda e Sexta -- Matéria ???
+Segunda e Sexta -- Matéria: Planejamento, publicação e gestão de projetos web.
 
 Protocolo de transmissão:
 
@@ -10,7 +10,7 @@ Protocolo UDP = Live
 
 .pdf .mp4 .mp3
 Exemplos de extensão
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 Caneta Bic:
 1- Ferramenta para salvar alguém de uma asfixia fazendo um buraco no pescoço (Se você souber oque está fazendo)
 2- Fazer batidas para se comunicar em codigo morse em uma situação em que você não pode se expressar de outra maneira.
@@ -41,6 +41,15 @@ Moeda de 50 centavos:
 3-
 4-
 5-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Mapa mental tópicos:
+Público
+Estratégia de mercado
+Produção
+Marketing
+Pós Vendas
+
+
 Terça-Feira -- Banco de Dados:
 
 Chave primária: É um campo da tabela que nunca irá se repetir.
