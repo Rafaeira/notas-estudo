@@ -1,4 +1,3 @@
-const numero1 = 100
-const numero2 = 50
-console.log ("A subtração das unidades " + numero1 "e" + numero2 "é igual a: " numero1 - numero2)
- 
+const n1 = 100
+const n2 = 50
+console.log ("A subtração de " + n1 + " pelo número " + n2 + " é igual a " + (n1 - n2))
