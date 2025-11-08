@@ -1,4 +1,5 @@
 # notas-estudo
+------------------------------------------------------------------------------------------------------------------------------------------------------------ Aula 1
 Minhas notas de estudo do SENAC no curso de programador web
 
 Segunda e Sexta -- Matéria: Planejamento, publicação e gestão de projetos web.
@@ -10,7 +11,7 @@ Protocolo UDP = Live
 
 .pdf .mp4 .mp3
 Exemplos de extensão
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------- Aula 2
 Caneta Bic:
 1- Ferramenta para salvar alguém de uma asfixia fazendo um buraco no pescoço (Se você souber oque está fazendo)
 2- Fazer batidas para se comunicar em codigo morse em uma situação em que você não pode se expressar de outra maneira.
@@ -41,15 +42,17 @@ Moeda de 50 centavos:
 3-
 4-
 5-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------- Aula 3
 Mapa mental tópicos:
 Público
 Estratégia de mercado
 Produção
 Marketing
 Pós Vendas
-
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------- Aula 4
+Painel Semântico - Moodboard
+Colagem de elementos soltos, cores, tipografia, textura, palavras-chave. Oque representa? Sentimento-Personalidade.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Terça-Feira -- Banco de Dados:
 
 Chave primária: É um campo da tabela que nunca irá se repetir.
