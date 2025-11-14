@@ -29,7 +29,18 @@ console.log(nome)
    Pois usando a variável const não podemos alterar o valor da variável.
 
 
+Em HTML podemos usar o comando <script src="nomedoseuarquivoemjava.js"></script> para executar comandos em java dentro do site.
 
+O comando prompt é utilziado para pedir uma informações para o usuário que será armazenada dentro da respectiva variável, seguimos com exemplo:
+const n1 = prompt("Digite um número") *O número digitado aqui pelo usuário será 4 por exemplo
+alert(n1)
+O resultado no site será:
+4
+Para escrevermos na tela em um site utilizamos o alert("Hello Word") em vez do console.log("Hello Word")
+alert("Opa tudo bom")
+O resultado no site será:
+Opa tudo bom
+Para que o programa conside a informação digitada pelo usuário como um número você
 
 
 

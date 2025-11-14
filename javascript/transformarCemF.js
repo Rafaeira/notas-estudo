@@ -1,5 +1,4 @@
-console.log("Opa meu querido você quer saber uma informação impressendível para a sua vida?")
-const c = 20
+alert("Seja bem vindo ao convertedor online de celsius para fahrenheit :D ")
+const c = Number(prompt("Digite a temperatura em celsius que você gostaria de converter: "))
 const resultado = (1.8 * c + 32)
-console.log("Você sabia que " + c + " convertido para fahrenheit é igual a " + resultado + "°F")
-console.log ("Espero ter acrecentado na sua vida :D")
+alert(c + "°C" + " convertido para fahrenheit é igual a " + resultado + "°F")

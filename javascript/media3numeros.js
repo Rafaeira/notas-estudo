@@ -1,5 +1,5 @@
-let n1 = 9
-const n2 = 5
-var n3 = 7
+const n1 = Number(prompt("Digite um número: "))
+const n2 = Number(prompt("Digite outro número: "))
+const n3 = Number(prompt("Acredito que você já saiba oque fazer 👍"))
 const r = (n1 + n2 + n3)
-console.log ("A média simples entre os números " + n1 + "," + n2 + " e " + n3 + " é " + " = " + (r / 3))
+alert("A média simples entre os números " + n1 + "," + n2 + " e " + n3 + " é " + " = " + (r / 3))

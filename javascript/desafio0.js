@@ -1,5 +1,6 @@
-const idade = 80
+alert("Seja bem vindo ao site que transforma sua idade em anos em meses e dias, olha que legal :)")
+const idade = Number(prompt("Digite a sua idade: "))
 const meses = (idade*12)
 const dias = (meses*30)
 const resultado = (meses + " meses e " + dias + " dias ")
-console.log ("Convertendo " + idade + " anos em meses e dias o resultado fica " + resultado)
+alert ("Convertendo " + idade + " anos em meses e dias o resultado fica " + resultado)

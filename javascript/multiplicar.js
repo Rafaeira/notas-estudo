@@ -1,3 +1,4 @@
-const N1 = 5
-const N2 = 5
-console.log ("Multiplicando os números " + N1 + " e " + N2 + " temos o resultado = " + (N1 * N2))
+alert("Seja bem vindo ao multiplicador online 👍")
+const N1 = prompt("Digite um número: ")
+const N2 = prompt("Digite outro número que será multiplicado pelo anterior: ")
+alert(N1 + " x " + N2 + " = " + (N1 * N2))
