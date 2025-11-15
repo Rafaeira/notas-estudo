@@ -38,15 +38,33 @@ O resultado no site será:
 4
 Para escrevermos na tela em um site utilizamos o alert("Hello Word") em vez do console.log("Hello Word")
 alert("Opa tudo bom")
-O resultado no site será:
-Opa tudo bom
-Para que o programa conside a informação digitada pelo usuário como um número você
+  O resultado no site será: Opa tudo bom
+Para que o programa considere a informação digitada pelo usuário como um número você deve digitar Number e abrir () antes do prompt, segue o exemplo:
+const n1 = Number(Prompt("Digite um número"))
+Fazemos isso para que se realizarmos uma soma o programa ao invés de somar os termos (1 + 1 = 11) fazer o cálculo matemático que seria (1 + 1 = 2), vamos aos exemplos:
+const n1 = prompt("Digite um número") --O número digitado pelo usuário aqui será 7 como exemplo.
+const n2 = prompt("Digite outro número") --O número digitado aqui pelo usuário será 3 como exemplo.
+const resultado = (n1 + n2)
+alert(resultado)
+  O resultado no terminal nesse caso será: 73 --Pois como não colocamos Number() atrás do prompt o script considerou as varíaveis n1 e n2 como string (Texto)
+Agora se colocarmos Number:
+const n1 = Number(prompt("Digite um número")) --O número digitado pelo usuário aqui será 5 como exemplo.
+const n2 = Number(prompt("Digite outro número")) --O número digitado aqui pelo usuário será 6 como exemplo.
+const resultado = (n1 + n2)
+alert(resultado)
+  O resultado no terminal será: 11
+Pois agora as variáveis n1 e n2 são consideradas números pelo programa.
 
 
-
-
-
-
+Dentro do JS podemos aplicar condições ao nosso código usando if, else e if else, por exemplo:
+const p1 = prompt("Serra dourada é a capital do Brasil? Digite utilizando [Y/N])
+if (p1 == Y) {
+   console.log("Está errado... a capital do Brasil é Brasília.)
+} if else (p1 == N) {
+   console.log("Boaa sabe muito.)
+} else {
+   console.log("Digite apenas entre as opções Y ou N.)
+}
 
 
 
